@@ -1,0 +1,28 @@
+.hero {
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+#backVid {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+@media (min-aspect-ratio: 16/9){
+    #backVid{
+        width: 100%;
+        height: auto;
+
+    }
+}
+
+@media (max-aspect-ratio: 16/9){
+    #backVid{
+        width: auto;
+        height: 100%;
+
+    }
+}
