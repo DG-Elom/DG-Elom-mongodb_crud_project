@@ -1,9 +1,19 @@
-# DG-Elom-mongodb_crud_project
+**Readme pour le projet de site web CRUD d'utilisateurs et de produits**
 
-# Ce projet est un mini-projet d'examen de mongoDB
-# Pour le démarrer, il faut suivre ces étapes:
+### Ce projet utilise Node.js, Express et MongoDB pour créer un site web qui permet de créer, lire, mettre à jour et supprimer des utilisateurs et des produits. La partie client utilise HTML, CSS et JavaScript pour fournir une interface utilisateur.
 
-# 1- Installer node.js et git sur votre machine
-# 2- Aller dans le terminal et taper les commandes suivantes:
-## mkdir nomDuProjet && cd nomDuProjet
-## git clone 
+**Prérequis**
+### Avant de pouvoir cloner et déployer ce projet, vous devez vous assurer que vous avez installé les logiciels et les outils suivants sur votre ordinateur :
+
+## - Node.js
+## - npm (gestionnaire de paquets Node.js)
+## - MongoDB
+
+# Téléchargement et installation
+### Pour cloner et installer ce projet sur votre ordinateur, veuillez suivre les étapes suivantes :
+
+### Ouvrez votre terminal ou votre ligne de commande et accédez au répertoire dans lequel vous souhaitez cloner le projet.
+
+### Entrez la commande suivante pour cloner le projet :
+## git clone
+ 
