@@ -19,7 +19,7 @@
 #
 ### 3- Accédez au répertoire du projet en entrant la commande suivante :
 #
-### `cd mongodb_crud_project`
+### `cd DG-Elom-mongodb_crud_project`
 #
 ### 4- Installez les dépendances du projet en entrant la commande suivante :
 #
